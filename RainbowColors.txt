@@ -2,6 +2,8 @@ Red
 Orange
 Yellow
 Green
+Turquoise
 Blue
 Indigo
 Violet
+Ultraviolet
